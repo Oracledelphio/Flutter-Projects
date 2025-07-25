@@ -24,8 +24,8 @@ This application generates random, fun word pairs, offering users the ability to
 
 > Once you have your app running, capture some screenshots or a short GIF and place them here! This will make your README much more visually appealing.
 
-<img width="783" height="595" alt="Image" src="https://github.com/user-attachments/assets/1e0bd06f-bfdb-4bb6-82a1-d32f9e37abb6" />
-![Screenshot 2](path/to/screenshot2.gif)
+<img width="700" height="300" alt="Image" src="https://github.com/user-attachments/assets/1e0bd06f-bfdb-4bb6-82a1-d32f9e37abb6" />
+<img width="700" height="300" alt="Image" src="https://github.com/user-attachments/assets/746c3e8e-7ce1-4cf1-ba5c-b82611d4c430" />
 
 ---
 
